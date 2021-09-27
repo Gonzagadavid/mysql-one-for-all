@@ -93,9 +93,9 @@ Normalize uma tabela na terceira forma normal e acesse as informações desta ta
 ### Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-0x-mysql-one-for-all.git`.
+  * `git clone https://github.com/tryber/sd-012-mysql-one-for-all.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-mysql-one-for-all`
+    * `cd sd-012-mysql-one-for-all`
 
 2. Instale as dependências
   * `npm install`
@@ -572,7 +572,7 @@ Use o material que você já viu sobre [Code Review](https://course.betrybe.com/
 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
 
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
+Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_name=Turma%2012)
 
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, nãose assuste se isso acontecer, ok?
 
