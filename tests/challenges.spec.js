@@ -197,7 +197,7 @@ describe('Queries de seleção', () => {
     });
   });
 
-  describe('2 - Exibe as estatísticas musicais', () => {
+  describe.only('2 - Exibe as estatísticas musicais', () => {
     it('Verifica o desafio 2', async () => {
       const challengeQuery = readFileSync('desafio2.sql', 'utf8');
 
