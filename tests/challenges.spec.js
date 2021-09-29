@@ -290,7 +290,7 @@ describe('Queries de seleção', () => {
     });
   });
 
-  describe('7 - Exibe uma relação de todos os álbuns produzidos por cada artista', () => {
+  describe.only('7 - Exibe uma relação de todos os álbuns produzidos por cada artista', () => {
     it('Verifica o desafio 7', async () => {
       const challengeQuery = readFileSync('desafio7.sql', 'utf8');
 

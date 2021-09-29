@@ -90,7 +90,7 @@ INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (1, 'Envious
 INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (2, 'Exuberant', 1);
 INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (3, 'Hallowed Steam', 2);
 INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (4, 'Incandescent', 3);
-INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (5, 'Temporary Cultu', 4);
+INSERT INTO SpotifyClone.Album (album_id, album, artista_id) VALUES (5, 'Temporary Culture', 4);
 
 INSERT INTO SpotifyClone.Cancao (cancao_id, cancao, album_id) VALUES (1, 'Soul For Us', 1);
 INSERT INTO SpotifyClone.Cancao (cancao_id, cancao, album_id) VALUES (2, 'Reflections Of Magic', 1);
