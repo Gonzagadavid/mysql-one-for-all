@@ -6,7 +6,7 @@ USE SpotifyClone ;
 CREATE TABLE IF NOT EXISTS SpotifyClone.Plano (
     plano_id INT NOT NULL AUTO_INCREMENT,
     plano VARCHAR(45) NOT NULL,
-    valor_plano INT NOT NULL,
+    valor_plano DOUBLE NOT NULL,
     PRIMARY KEY (plano_id)
 );
 
